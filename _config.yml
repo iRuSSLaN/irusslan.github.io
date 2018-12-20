@@ -10,8 +10,8 @@ title: Недвижимость в Москве
 #email: your-email@domain.com
 description: Новостройка от официального застройщика или вторичка. 
   Когда покупать, у кого и за сколько. На что обратить внимание при приобретении квартиры.
-baseurl: "/ot-rf.ru" # the subpath of your site, e.g. /blog
-url: "http://ot-rf.ru" # the base hostname & protocol for your site
+baseurl: "/oirusslan.github.io" # the subpath of your site, e.g. /blog
+url: "https://irusslan.github.io" # the base hostname & protocol for your site
 #twitter_username: Taffyer 
 #github_username:  wild-flame 
 permalink: /:title
