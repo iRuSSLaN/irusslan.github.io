@@ -11,7 +11,7 @@ title: Недвижимость в Москве
 description: Новостройка от официального застройщика или вторичка. 
   Когда покупать, у кого и за сколько. На что обратить внимание при приобретении квартиры.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://irusslan.github.io" # the base hostname & protocol for your site
+url: "http://kvartira-na.ru/" # the base hostname & protocol for your site
 #twitter_username: Taffyer 
 #github_username:  wild-flame 
 permalink: /:title
