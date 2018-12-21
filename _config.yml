@@ -26,7 +26,7 @@ plugins:
  - jekyll-sitemap
 # just leave someone empty to disable it
 # google_analytics: 
-disqus_shortname: ot-rf
+#disqus_shortname: ot-rf - отключил временно возможность коментировать посты
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
